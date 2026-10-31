@@ -1,0 +1,7 @@
+{
+  "name": "RetailPulse Sales & Analytics Studio",
+  "description": "Interactive analytics dashboard with multi-dimensional visualizations, custom chart studio, time series forecasting, basket analysis, and transactional reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
