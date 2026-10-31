@@ -1,0 +1,111 @@
+# 📊 RetailPulse — Sales & Analytics Studio
+
+**Turn raw sales records into actionable insights.**
+
+RetailPulse is an interactive sales analytics dashboard built with React and TypeScript using Google AI Studio as part of my Coursera learning journey.
+
+It transforms sales transaction data into visual insights through interactive charts, dynamic filters, product performance analysis and customizable visualizations.
+
+## ✨ Features
+
+- **Executive Overview:** Revenue, unique orders, average order value and top-performing product KPIs.
+- **Dynamic Filters:** Search by order or product and filter by date, payment method and price range.
+- **Revenue Analytics:** Explore daily revenue trends, moving averages, cumulative revenue and sales volume.
+- **Product Performance:** Analyze product rankings, revenue contribution and sales volume.
+- **Payment Analytics:** Compare revenue and transaction distribution across payment methods.
+- **Temporal Heatmap:** Explore sales activity across time.
+- **Basket Affinity:** Examine product combinations within orders.
+- **Custom Chart Studio:** Build visualizations using different chart types, dimensions and metrics.
+- **Data Explorer:** Inspect, add, edit and delete transaction records.
+- **CSV Export:** Export filtered sales records.
+- **Theme Support:** Switch between light and dark modes.
+
+## 🖥️ Dashboard Preview
+
+### Overview
+![RetailPulse Dashboard Overview](docs/screenshots/overview.png)
+
+### Product & Payment Analytics
+![RetailPulse Product and Payment Analytics](docs/screenshots/product-payment-analytics.png)
+
+## 📁 Dataset
+
+The dashboard uses a sales dataset containing:
+
+| Attribute | Details |
+|---|---|
+| Records | 116 sales line items |
+| Unique orders | 98 |
+| Products | 12 |
+| Payment methods | 4 |
+| Date range | August 15 – October 7, 2025 |
+
+**Data fields:**
+- Order Number
+- Product
+- Price
+- Date
+- Payment Method
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|---|---|
+| React 19 | UI development |
+| TypeScript | Type safety |
+| Vite | Development and build tooling |
+| Tailwind CSS | Styling |
+| Lucide React | Icons |
+| Motion | Animations |
+| Google AI Studio | AI-assisted application development |
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js
+- npm
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/RITOJAPODDAR/interactive-sales-analytics-dashboard.git
+
+# Navigate into the project
+cd interactive-sales-analytics-dashboard
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
+
+Open the local URL displayed in your terminal (the configured development port is 3000).
+
+### Production Build
+
+```bash
+npm run build
+```
+
+### Preview Production Build
+
+```bash
+npm run preview
+```
+
+## 📚 Learning Context
+
+Developed as part of my Coursera learning journey using Google AI Studio.
+
+This project helped me explore AI-assisted application development, interactive data visualization, reusable React components and data-driven dashboard design.
+
+## 🔗 Links
+
+- **GitHub Repository:** https://github.com/RITOJAPODDAR/interactive-sales-analytics-dashboard
+- **Google AI Studio:** https://aistudio.google.com/apps/f58761b7-2255-4034-bfd4-0ca9e839f113?showPreview=true
+
+---
+
+*Built with curiosity, data and a little too much love for dashboards. 💜*
