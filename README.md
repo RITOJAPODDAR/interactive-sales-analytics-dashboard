@@ -22,12 +22,23 @@ It transforms sales transaction data into visual insights through interactive ch
 
 ## 🖥️ Dashboard Preview
 
-### Overview
-![RetailPulse Dashboard Overview](docs/screenshots/overview.png)
+### Executive Overview
+![RetailPulse Overview](docs/screenshots/Overview.png)
 
-### Product & Payment Analytics
-![RetailPulse Product and Payment Analytics](docs/screenshots/product-payment-analytics.png)
+### Product Performance
+![Product Analytics](docs/screenshots/Product%20Portfolio%20%26%20Yield%20Background.png)
 
+### Payment Analytics
+![Payment Analytics](docs/screenshots/Payment%20Channel%20%26%20Settlement%20Mix.png)
+
+### Revenue Timeline & Heatmap
+![Timeline and Heatmap](docs/screenshots/Timeline%20%26%20Heatmap.png)
+
+### Basket Affinity
+![Basket Affinity](docs/screenshots/Basket%20Affinity.png)
+
+### Custom Visualization Studio
+![Custom Chart Studio](docs/screenshots/Charts%20Overview.png)
 ## 📁 Dataset
 
 The dashboard uses a sales dataset containing:
