@@ -1,5 +1,7 @@
 # 📊 RetailPulse — Sales & Analytics Studio
 
+> 🚀 **Live Demo:** [Explore RetailPulse](https://interactive-sales-analytics-dashboard.netlify.app/)
+
 **Turn raw sales records into actionable insights.**
 
 RetailPulse is an interactive sales analytics dashboard built with React and TypeScript using Google AI Studio as part of my Coursera learning journey.
