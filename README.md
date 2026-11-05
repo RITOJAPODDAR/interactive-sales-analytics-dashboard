@@ -22,6 +22,20 @@ It transforms sales transaction data into visual insights through interactive ch
 - **CSV Export:** Export filtered sales records.
 - **Theme Support:** Switch between light and dark modes.
 
+  ## 💡 Business Questions Explored
+
+RetailPulse provides an interactive way to investigate questions such as:
+
+- How does revenue change over time?
+- Which products generate the highest revenue?
+- How do product prices relate to sales volume?
+- Which payment methods are most frequently used?
+- When are sales activities most concentrated?
+- Which products show basket affinity or purchasing associations?
+- How do different filters affect key business metrics?
+
+These questions help explore sales performance, product contribution, payment distribution and purchasing patterns through interactive visualizations.
+
 ## 🖥️ Dashboard Preview
 
 ### Executive Overview
