@@ -22,7 +22,7 @@ It transforms sales transaction data into visual insights through interactive ch
 - **CSV Export:** Export filtered sales records.
 - **Theme Support:** Switch between light and dark modes.
 
-  ## 💡 Business Questions Explored
+## 💡 Business Questions Explored
 
 RetailPulse provides an interactive way to investigate questions such as:
 
@@ -35,6 +35,27 @@ RetailPulse provides an interactive way to investigate questions such as:
 - How do different filters affect key business metrics?
 
 These questions help explore sales performance, product contribution, payment distribution and purchasing patterns through interactive visualizations.
+
+## 📊 Key Analytical Findings
+
+Based on the analysis of 116 transaction line items across 98 unique orders (August 15 – October 7, 2025), the dashboard highlights the following patterns:
+
+- **Top Revenue Contributor:** Premium Tailored Trousers generated the highest recorded revenue, contributing 1,575 across 9 transaction line items.
+- **Highest Sales Frequency:** Slim-Fit Denim Jeans and Classic Fit Chinos recorded the highest number of line items, with 13 each.
+- **Monthly Performance:** September recorded the highest sales value at 6,087, followed by August at 3,498. October recorded 1,629 during the first seven days of the month.
+- **Weekday Performance:** Tuesday recorded the highest sales value at 2,064, while Friday had the highest number of unique orders (16).
+- **Basket Analysis:** 18 orders contained multiple products. The most frequently observed product combination was Classic Fit Chinos and Flannel-Lined Canvas Work Pants, appearing together in 3 orders.
+
+**Dataset Snapshot:**
+- Total recorded sales value: 11,214
+- Unique orders: 98
+- Transaction line items: 116
+- Average order value: 114.43
+- Unique products: 12
+- Payment methods: 4
+
+*Note: Sales values are calculated by summing the Price column. Average order value is calculated using total order value divided by the number of unique orders. Weekday and monthly comparisons reflect the available dataset period.*
+
 
 ## 🖥️ Dashboard Preview
 
