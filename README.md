@@ -72,6 +72,48 @@ The dashboard uses a sales dataset containing:
 | Motion | Animations |
 | Google AI Studio | AI-assisted application development |
 
+
+## 📁 Project Structure
+
+```text
+interactive-sales-analytics-dashboard/
+│
+├── public/
+│   └── assets/
+│
+├── docs/
+│   └── screenshots/
+│
+├── src/
+│   ├── components/
+│   │   ├── BasketAnalysisChart.tsx
+│   │   ├── CustomVisualizerStudio.tsx
+│   │   ├── DataTableExplorer.tsx
+│   │   ├── FilterToolbar.tsx
+│   │   ├── MetricCard.tsx
+│   │   ├── PaymentMethodChart.tsx
+│   │   ├── ProductPerformanceChart.tsx
+│   │   ├── RevenueTimelineChart.tsx
+│   │   ├── TemporalHeatmap.tsx
+│   │   ├── TopBar.tsx
+│   │   └── TransactionModal.tsx
+│   │
+│   ├── data/
+│   ├── App.tsx
+│   ├── index.css
+│   └── main.tsx
+│
+├── .env.example
+├── .gitignore
+├── index.html
+├── package.json
+├── tsconfig.json
+└── vite.config.ts
+```
+
+**Architecture:** React components handle the dashboard interface, visualizations, filtering and transaction interactions, while the data layer supports sales analytics.
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
